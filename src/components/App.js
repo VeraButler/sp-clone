@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
-import Header from './Header/Header';
+import Header from './header/Header';
 import Dashboard from './Dashboard';
 
 import Contacts from './views/studio/Contacts';
